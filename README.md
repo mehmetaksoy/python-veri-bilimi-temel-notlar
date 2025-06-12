@@ -81,3 +81,17 @@ Notebook aşağıdaki ana bölümleri ve alt başlıkları içermektedir:
 * Python programlama dilini veri analizi ve görselleştirme amacıyla öğrenmek isteyenler.
 * NumPy, Pandas, Matplotlib ve Seaborn kütüphanelerindeki bilgilerini tazelemek veya pekiştirmek isteyenler.
 * Veri bilimi mülakatlarına veya projelerine hazırlanan öğrenciler ve profesyoneller.
+
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
